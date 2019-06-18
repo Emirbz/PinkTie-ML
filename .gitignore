@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+.ipynb_checkpoints
+sample_output/
+/venv/
+run.sh/
+NOTICE/
+LICENSE/
